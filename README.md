@@ -8,8 +8,8 @@ Sunny Cafe is a modern, responsive coffee shop website built using HTML and CSS.
 
 Technologies used: HTML5, CSS3 (Flexbox and Grid layout), responsive design, interactive elements, and call-to-action buttons.
 
-Demo: Live demo of the project is available on GitHub Pages:
-https://github.com/ivankukoleca/Sunny-Cafe-responsive-landing-page-interactive-website-built-with-HTML-CSS/tree/main
+
+Live Demo: https://sunny-caffe.netlify.app
 
 About the Author:
 Ivan Kukoleča– Junior Web Developer. Specializes in HTML/CSS, responsive design, landing pages, and web stores. Works fast and efficiently, turning ideas into functional and visually appealing websites.
